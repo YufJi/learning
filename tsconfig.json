@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "lib": ["ES2020"],
+    "target": "ES5",
+    "module": "CommonJS",
+    "moduleResolution": "Node",
+    "baseUrl": ".",
+    "outDir": "dist",
+    "rootDir": "src",
+    "skipLibCheck": true,
+    "paths": {
+      "@/*": ["src/*"]
+    }
+  }
+}
