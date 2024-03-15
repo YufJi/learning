@@ -22,7 +22,7 @@ boolean empty() 如果队列为空，返回 true ；否则，返回 false
 
 import { Stack } from '@/shared/Stack';
 
-class MyQueue {
+class StackQueue {
   private stackPush: Stack<number>;
   private stackPop: Stack<number>;
 
@@ -60,5 +60,5 @@ class MyQueue {
 }
 
 export {
-  MyQueue
+  StackQueue
 };

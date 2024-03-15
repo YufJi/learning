@@ -1,4 +1,4 @@
-import { MyQueue } from '.';
+import { StackQueue } from '.';
 
 /**
  * 输入格式:
@@ -20,9 +20,9 @@ push,push,peek,pop,empty
 null,null,1,1,false
  */
 
-describe('MyQueue', () => {
+describe('StackQueue', () => {
   it('should return the correct result', () => {
-    const myQueue = new MyQueue();
+    const myQueue = new StackQueue();
     myQueue.push(1);
     myQueue.push(2);
     expect(myQueue.peek()).toBe(1);

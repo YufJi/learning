@@ -1,7 +1,7 @@
-export class ListNode {
-  val: number;
-  next: ListNode | null;
-  constructor(val: number = 0, next: ListNode | null = null) {
+export class ListNode<T> {
+  val: T;
+  next: ListNode<T> | null;
+  constructor(val: T, next: ListNode<T> | null = null) {
     this.val = val;
     this.next = next;
   }

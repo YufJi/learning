@@ -3,11 +3,11 @@ import { ListNode } from './ListNode';
 /**
  * 用链表实现栈
  */
-export class LinkedListStack {
-  private head: ListNode | null = null;
+export class LinkedListStack<T> {
+  private head: ListNode<T> | null = null;
   private size: number = 0;
 
-  push(val: number) {
+  push(val: T) {
     const node = new ListNode(val);
     node.next = this.head;
     this.head = node;
