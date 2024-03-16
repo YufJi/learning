@@ -1,16 +1,18 @@
 {
   "name": "algorithm",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "LeetCode Algorithm",
   "scripts": {
     "test": "jest",
     "dev": "tsc -w",
     "build": "tsc",
     "prettier": "prettier . --write"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "algorithm",
+    "leetcode"
+  ],
+  "author": "YufJi",
   "devDependencies": {
     "@jest/globals": "^29.7.0",
     "@stylistic/eslint-plugin": "^1.7.0",
