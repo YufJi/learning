@@ -1,6 +1,6 @@
 import { GetMinStack } from '.';
 
-describe('GetMinStack', () => {
+describe('easy/getMinStack', () => {
   it('should return the min value', () => {
     const getMinStack = new GetMinStack();
     getMinStack.push(3);

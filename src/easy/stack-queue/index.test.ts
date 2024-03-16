@@ -20,7 +20,7 @@ push,push,peek,pop,empty
 null,null,1,1,false
  */
 
-describe('StackQueue', () => {
+describe('easy/StackQueue', () => {
   it('should return the correct result', () => {
     const myQueue = new StackQueue();
     myQueue.push(1);
