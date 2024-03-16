@@ -11,3 +11,4 @@
 ## 困难
 - [x] [接雨水](./src/hard/trapping-rain-water/README.md)
 - [x] [最长有效括号](./src/hard/longest-valid-parentheses/README.md)
+- [x] [数字1的个数](./src/hard/digit-one-in-number/README.md)
