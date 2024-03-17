@@ -13,5 +13,6 @@ module.exports = {
     '@stylistic/no-extra-semi': ['error'],
     '@stylistic/no-multiple-empty-lines': ['error', { max: 1 }],
     '@typescript-eslint/no-unused-vars': [1],
+    'prefer-const': [0],
   },
 };
