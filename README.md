@@ -5,6 +5,7 @@
 - [x] [ 一个有getMin功能的栈](./src/easy/min-stack/README.md)
 - [x] [ 移动零](./src/easy/move-zeroes/README.md)
 - [x] [ 由2个栈组成的队列](./src/easy/stack-queue/README.md)
+- [x] [ 两数之和](./src/easy/two-sum/README.md)
 - [x] [ 有效的括号](./src/easy/valid-parentheses/README.md)
 
 ## medium
