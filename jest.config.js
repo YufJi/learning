@@ -5,5 +5,7 @@ module.exports = {
   rootDir: './src',
   moduleNameMapper: {
     '^@/(.*)$': '<rootDir>/$1',
-  }
+  },
+  collectCoverage: true,
+  coverageDirectory: '../coverage', // relative to rootDir
 };

@@ -14,6 +14,7 @@
     "algorithm",
     "leetcode"
   ],
+  "packageManager": "pnpm@8.15.4",
   "author": "YufJi",
   "devDependencies": {
     "@jest/globals": "^29.7.0",
