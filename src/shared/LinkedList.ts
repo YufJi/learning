@@ -1,18 +1,18 @@
-class Node<T> {
+export class ListNode<T> {
   val: T;
-  next: Node<T> | null;
-  constructor(val: T, next: Node<T> | null = null) {
+  next: ListNode<T> | null;
+  constructor(val: T, next: ListNode<T> | null = null) {
     this.val = val;
     this.next = next;
   }
 }
 
 export class LinkedList<T> {
-  private head: Node<T> | null = null;
+  private head: ListNode<T> | null = null;
   private size: number = 0;
 
   push(val: T) {
-    const node = new Node(val);
+    const node = new ListNode(val);
     node.next = this.head;
     this.head = node;
     this.size++;
