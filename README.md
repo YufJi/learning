@@ -14,10 +14,11 @@
 - [x] [ 两数之和](./src/easy/two-sum/README.md)
 - [x] [ 有效的括号](./src/easy/valid-parentheses/README.md)
 
-## medium（5）
+## medium（6）
 - [x] [ 无重复字符的最长子串](./src/medium/length-of-longest-substring/README.md)
 - [x] [ 盛水最多的容器](./src/medium/max-area/README.md)
 - [x] [ 最大子数组和](./src/medium/max-subarray/README.md)
+- [x] [ 岛屿数量](./src/medium/num-islands/README.md)
 - [x] [ 和为k的子数组](./src/medium/subarray-sum/README.md)
 - [x] [ 三数之和](./src/medium/three-sum/README.md)
 
