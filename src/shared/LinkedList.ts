@@ -1,8 +1,8 @@
 export class ListNode<T> {
-  val: T;
+  value: T;
   next: ListNode<T> | null;
-  constructor(val: T, next: ListNode<T> | null = null) {
-    this.val = val;
+  constructor(value: T, next: ListNode<T> | null = null) {
+    this.value = value;
     this.next = next;
   }
 }
@@ -11,8 +11,8 @@ export class LinkedList<T> {
   private head: ListNode<T> | null = null;
   private size: number = 0;
 
-  push(val: T) {
-    const node = new ListNode(val);
+  push(value: T) {
+    const node = new ListNode(value);
     node.next = this.head;
     this.head = node;
     this.size++;
@@ -21,15 +21,15 @@ export class LinkedList<T> {
   pop() {
     if (this.head === null) return;
 
-    const val = this.head.val;
+    const value = this.head.value;
     this.head = this.head.next;
     this.size--;
 
-    return val;
+    return value;
   }
 
   peek() {
-    return this.head?.val;
+    return this.head?.value;
   }
 
   isEmpty() {
