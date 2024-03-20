@@ -1,6 +1,6 @@
 # 算法练习
 
-## easy（12）
+## easy（13）
 - [x] [ 斐波那契数](./src/easy/fib/README.md)
 - [x] [ 二叉树的中序遍历](./src/easy/inorder-traversal/README.md)
 - [x] [ 相交链表](./src/easy/intersection-node/README.md)
@@ -10,6 +10,7 @@
 - [x] [ 反转链表](./src/easy/reverse-list/README.md)
 - [x] [ 只出现一次的数字](./src/easy/single-number/README.md)
 - [x] [ 由2个栈组成的队列](./src/easy/stack-queue/README.md)
+- [x] [ 对称二叉树](./src/easy/symmetric-tree/README.md)
 - [x] [ 两数之和](./src/easy/two-sum/README.md)
 - [x] [ 有效的括号](./src/easy/valid-parentheses/README.md)
 
