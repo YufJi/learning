@@ -1,7 +1,8 @@
 # 算法练习
 
-## easy（9）
+## easy（10）
 - [x] [ 斐波那契数](./src/easy/fib/README.md)
+- [x] [ 二叉树的中序遍历](./src/easy/inorder-traversal/README.md)
 - [x] [ 相交链表](./src/easy/intersection-node/README.md)
 - [x] [ 一个有getMin功能的栈](./src/easy/min-stack/README.md)
 - [x] [ 移动零](./src/easy/move-zeroes/README.md)
