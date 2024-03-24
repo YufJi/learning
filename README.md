@@ -1,10 +1,11 @@
 # 算法练习
 
-## easy（15）
+## easy（16）
 - [x] [ 斐波那契数](./src/easy/fib/README.md)
 - [x] [ 字符串的最大公因子](./src/easy/gcd-of-strings/README.md)
 - [x] [ 二叉树的中序遍历](./src/easy/inorder-traversal/README.md)
 - [x] [ 相交链表](./src/easy/intersection-node/README.md)
+- [x] [ 拥有最多糖果的孩子](./src/easy/kids-with-candies/README.md)
 - [x] [ 二叉树的最大深度](./src/easy/max-depth/README.md)
 - [x] [ 合并两个有序链表](./src/easy/merge-two-lists/README.md)
 - [x] [ 一个有getMin功能的栈](./src/easy/min-stack/README.md)
