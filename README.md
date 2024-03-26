@@ -32,4 +32,5 @@
 - [x] [最长有效括号](./src/algorithm/hard/longest-valid-parentheses/README.md)
 
 # 编程练习
-- [x] [Promise实现](./src/programming/my-promise/README.md)
+- [x] [Promise实现](./src/programming/Promise/README.md)
+- [x] [intanceof 操作符的实现原理](./src/programming/instanceof/README.md)
