@@ -48,7 +48,7 @@ function observe(target) {
 
 function observeProxy(target) {
   if (!target || typeof target !== 'object') {
-    return;
+    return target;
   }
 
   const dep = new Dep();
@@ -64,8 +64,7 @@ function observeProxy(target) {
     },
     set(target, key, value) {
       if (Reflect.get(target, key) !== value) {
-        observeProxy(value);
-        Reflect.set(target, key, value);
+        Reflect.set(target, key, observeProxy(value));
         dep.notify();
         return true;
       }
