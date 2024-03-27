@@ -9,7 +9,9 @@
     "rootDir": "src",
     "skipLibCheck": true,
     "paths": {
-      "@/*": ["src/*"]
+      "@/*": ["src/*"],
+      "algorithm/*": ["src/algorithm/*"],
+      "programming/*": ["src/programming/*"],
     }
   },
   "include": ["src/**/*"],
