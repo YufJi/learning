@@ -26,9 +26,10 @@
 - [x] [和为k的子数组](./src/algorithm/medium/subarray-sum/README.md)
 - [x] [三数之和](./src/algorithm/medium/three-sum/README.md)
 
-## hard（3）
+## hard（4）
 - [x] [数字1的个数](./src/algorithm/hard/digit-one-in-number/README.md)
 - [x] [接雨水](./src/algorithm/hard/get-water/README.md)
+- [x] [正则表达式匹配](./src/algorithm/hard/is-match/README.md)
 - [x] [最长有效括号](./src/algorithm/hard/longest-valid-parentheses/README.md)
 
 # 编程练习
