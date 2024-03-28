@@ -1,6 +1,6 @@
 # 算法练习
 
-## easy（17）
+## easy（18）
 - [x] [斐波那契数](./src/algorithm/easy/fib/README.md)
 - [x] [字符串的最大公因子](./src/algorithm/easy/gcd-of-strings/README.md)
 - [x] [二叉树的中序遍历](./src/algorithm/easy/inorder-traversal/README.md)
@@ -11,6 +11,7 @@
 - [x] [合并两个有序链表](./src/algorithm/easy/merge-two-lists/README.md)
 - [x] [一个有getMin功能的栈](./src/algorithm/easy/min-stack/README.md)
 - [x] [移动零](./src/algorithm/easy/move-zeroes/README.md)
+- [x] [移除元素](./src/algorithm/easy/remove-element/README.md)
 - [x] [反转链表](./src/algorithm/easy/reverse-list/README.md)
 - [x] [只出现一次的数字](./src/algorithm/easy/single-number/README.md)
 - [x] [由2个栈组成的队列](./src/algorithm/easy/stack-queue/README.md)
