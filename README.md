@@ -1,6 +1,6 @@
 # 算法练习
 
-## easy（20）
+## easy（21）
 - [x] [斐波那契数](./src/algorithm/easy/fib/README.md)
 - [x] [字符串的最大公因子](./src/algorithm/easy/gcd-of-strings/README.md)
 - [x] [二叉树的中序遍历](./src/algorithm/easy/inorder-traversal/README.md)
@@ -17,6 +17,7 @@
 - [x] [搜索插入位置](./src/algorithm/easy/search-insert/README.md)
 - [x] [只出现一次的数字](./src/algorithm/easy/single-number/README.md)
 - [x] [由2个栈组成的队列](./src/algorithm/easy/stack-queue/README.md)
+- [x] [实现strStr()函数](./src/algorithm/easy/strStr/README.md)
 - [x] [对称二叉树](./src/algorithm/easy/symmetric-tree/README.md)
 - [x] [两数之和](./src/algorithm/easy/two-sum/README.md)
 - [x] [有效的括号](./src/algorithm/easy/valid-parentheses/README.md)
