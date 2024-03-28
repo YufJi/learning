@@ -1,6 +1,6 @@
 # 算法练习
 
-## easy（21）
+## easy（22）
 - [x] [斐波那契数](./src/algorithm/easy/fib/README.md)
 - [x] [字符串的最大公因子](./src/algorithm/easy/gcd-of-strings/README.md)
 - [x] [二叉树的中序遍历](./src/algorithm/easy/inorder-traversal/README.md)
@@ -21,6 +21,7 @@
 - [x] [对称二叉树](./src/algorithm/easy/symmetric-tree/README.md)
 - [x] [两数之和](./src/algorithm/easy/two-sum/README.md)
 - [x] [有效的括号](./src/algorithm/easy/valid-parentheses/README.md)
+- [x] [三步问题](./src/algorithm/easy/ways-to-step/README.md)
 
 ## medium（7）
 - [x] [两数相加](./src/algorithm/medium/add-two-numbers/README.md)
