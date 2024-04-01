@@ -23,8 +23,9 @@
 - [x] [有效的括号](./src/algorithm/easy/valid-parentheses/README.md)
 - [x] [三步问题](./src/algorithm/easy/ways-to-step/README.md)
 
-## medium（9）
+## medium（10）
 - [x] [两数相加](./src/algorithm/medium/add-two-numbers/README.md)
+- [x] [重建二叉树](./src/algorithm/medium/build-tree/README.md)
 - [x] [无重复字符的最长子串](./src/algorithm/medium/length-of-longest-substring/README.md)
 - [x] [最长连续序列](./src/algorithm/medium/longest-consecutive/README.md)
 - [x] [最长回文字串](./src/algorithm/medium/longest-palindrome/README.md)
