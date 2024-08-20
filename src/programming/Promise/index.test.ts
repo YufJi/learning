@@ -129,13 +129,6 @@ const fetch: () => Promise<typeof data1> = () => {
   });
 };
 
-// 逻辑数据源
-const logic1 = async(params: Params) => {
-  // do something params可用可不用
-  const result = await fetch();
-  return result;
-};
-
 // 包装load
 function createLoader(dataSource) {
   return async(params: Params) => {
