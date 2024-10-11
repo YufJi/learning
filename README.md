@@ -23,7 +23,7 @@
 - [x] [有效的括号](./src/algorithm/easy/valid-parentheses/README.md)
 - [x] [三步问题](./src/algorithm/easy/ways-to-step/README.md)
 
-## medium（10）
+## medium（11）
 - [x] [两数相加](./src/algorithm/medium/add-two-numbers/README.md)
 - [x] [重建二叉树](./src/algorithm/medium/build-tree/README.md)
 - [x] [无重复字符的最长子串](./src/algorithm/medium/length-of-longest-substring/README.md)
@@ -31,6 +31,7 @@
 - [x] [最长回文字串](./src/algorithm/medium/longest-palindrome/README.md)
 - [x] [盛水最多的容器](./src/algorithm/medium/max-area/README.md)
 - [x] [最大子数组和](./src/algorithm/medium/max-subarray/README.md)
+- [x] [向数组中追加 K 个整数](./src/algorithm/medium/minimal-k-sum/README.md)
 - [x] [岛屿数量](./src/algorithm/medium/num-islands/README.md)
 - [x] [和为k的子数组](./src/algorithm/medium/subarray-sum/README.md)
 - [x] [三数之和](./src/algorithm/medium/three-sum/README.md)
