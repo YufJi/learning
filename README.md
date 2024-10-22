@@ -23,24 +23,29 @@
 - [x] [有效的括号](./src/algorithm/easy/valid-parentheses/README.md)
 - [x] [三步问题](./src/algorithm/easy/ways-to-step/README.md)
 
-## medium（11）
+## medium（13）
 - [x] [两数相加](./src/algorithm/medium/add-two-numbers/README.md)
 - [x] [重建二叉树](./src/algorithm/medium/build-tree/README.md)
+- [x] [最长递增子序列](./src/algorithm/medium/length-of-LIS/README.md)
 - [x] [无重复字符的最长子串](./src/algorithm/medium/length-of-longest-substring/README.md)
 - [x] [最长连续序列](./src/algorithm/medium/longest-consecutive/README.md)
 - [x] [最长回文字串](./src/algorithm/medium/longest-palindrome/README.md)
 - [x] [盛水最多的容器](./src/algorithm/medium/max-area/README.md)
+- [x] [岛屿最大的面积](./src/algorithm/medium/max-area-of-island/README.md)
 - [x] [最大子数组和](./src/algorithm/medium/max-subarray/README.md)
 - [x] [向数组中追加 K 个整数](./src/algorithm/medium/minimal-k-sum/README.md)
 - [x] [岛屿数量](./src/algorithm/medium/num-islands/README.md)
 - [x] [和为k的子数组](./src/algorithm/medium/subarray-sum/README.md)
 - [x] [三数之和](./src/algorithm/medium/three-sum/README.md)
 
-## hard（4）
+## hard（7）
 - [x] [数字1的个数](./src/algorithm/hard/digit-one-in-number/README.md)
 - [x] [接雨水](./src/algorithm/hard/get-water/README.md)
 - [x] [正则表达式匹配](./src/algorithm/hard/is-match/README.md)
+- [x] [按公因数计算最大组件大小](./src/algorithm/hard/longest-component-size/README.md)
 - [x] [最长有效括号](./src/algorithm/hard/longest-valid-parentheses/README.md)
+- [x] [拼接最大数](./src/algorithm/hard/max-number/README.md)
+- [x] [二叉树中的最大路径和](./src/algorithm/hard/max-path-sum/README.md)
 
 # 编程练习
 - [x] [Promise实现](./src/programming/Promise/README.md)
