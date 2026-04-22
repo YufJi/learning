@@ -1,5 +1,3 @@
-[![CI](https://github.com/YufJi/learning/actions/workflows/test.yml/badge.svg)](https://github.com/YufJi/learning/actions/workflows/test.yml)
-
 # 算法练习
 
 ## easy（22）
